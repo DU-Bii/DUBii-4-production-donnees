@@ -1,0 +1,15 @@
+name: dubii2019_m4_production_donnes
+channels:
+  - bioconda
+  - r
+dependencies:
+  - fastqc=0.11.8
+  - fastp=0.19.5
+  - igv=2.4.16
+  - multiqc=1.7
+  - sra-tools=2.9.1_1
+  - fastp=0.19.5
+  - trimmomatic=0.38
+  - sickle-trim=1.33
+  - cutadapt=1.18
+  - r-base=3.5.1
