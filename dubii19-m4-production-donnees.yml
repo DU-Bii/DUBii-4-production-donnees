@@ -3,6 +3,7 @@ channels:
   - bioconda
   - r
 dependencies:
+  - matplotlib=2.2.3
   - fastqc=0.11.8
   - fastp=0.19.5
   - igv=2.4.16
