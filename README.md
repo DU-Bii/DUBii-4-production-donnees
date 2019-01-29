@@ -18,7 +18,7 @@ https://tinyurl.com/dubii19-planning
 
 ### Séance 1 - Génomique 
 
-
+Introduction [[PDF]](https://github.com/DU-Bii/module-4-Production-Donnees/blob/master/Séance1/%2020190129_DuBii_Intro_Module4.pdf)
 Instructeur : Claude Thermes [[PDF]](https://github.com/DU-Bii/module-4-Production-Donnees/blob/master/Séance1/00_20190129_THERMES.pdf)
 
 Mardi 29/01/2019 10h15 - 13:00
