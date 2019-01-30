@@ -29,7 +29,7 @@ Mardi 29/01/2019 10h15 - 13:00
 
 Jeudi 31/01/2019 10:00 - 13:00
 
-instructeurs : Valentin Loux & Cédric Midoux
+instructeurs : Valentin Loux & Cédric Midoux [[PDF]](https://github.com/DU-Bii/module-4-Production-Donnees/blob/master/Séance2/DuBii%20-%20Module%204%20-%20QC.pdf)
 
 ### Séance 3 - Protéomique
 
