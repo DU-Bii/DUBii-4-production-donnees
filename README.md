@@ -36,7 +36,7 @@ instructeurs : Valentin Loux & Cédric Midoux [[PDF]](https://github.com/DU-Bii/
 
 Mardi 05/02/2019 10:00 - 13:00
 
-instructeur : Thibaut Léger 
+instructeur : Thibaut Léger  [[PDF]](https://github.com/DU-Bii/module-4-Production-Donnees/blob/master/040219-DUBii-Proteomics.pdf)
 
 
 ### Séance 4 - Métabolomique
