@@ -8,7 +8,7 @@ L’objectif de ce module est de vous familiariser avec les technologies de prod
 - Valentin Loux, INRA
 - Cédric Midoux, IRSTEA
 - Fabien Jourdan, INRA
-- Thibault Léger, Université Paris Diderot
+- Thibaut Léger, Université Paris Diderot
 - Daniel Gautheret, Université Paris-Sud
 
 ## Planning DU-Bii 2019
@@ -36,7 +36,8 @@ instructeurs : Valentin Loux & Cédric Midoux [[PDF]](https://github.com/DU-Bii/
 
 Mardi 05/02/2019 10:00 - 13:00
 
-instructeur : Thibaut Léger
+instructeur : Thibaut Léger 
+
 
 ### Séance 4 - Métabolomique
 
