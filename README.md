@@ -44,7 +44,7 @@ instructeur : Thibaut Léger  [[PDF]](https://github.com/DU-Bii/module-4-Product
 
 Mercredi 19/02/2019 10:00 - 13:00
 
-Instructeur : Fabien Jourdan [[PDF]](https://github.com/DU-Bii/module-4-Production-Donnees/blob/master/Séance4/2019-02-19-Dubii-Metabolomics_Fabien-Jourdan.pdf)
+Instructeur : Fabien Jourdan [[PDF]](https://github.com/DU-Bii/module-4-Production-Donnees/blob/master/séance4/2019-02-19-Dubii-Metabolomics_Fabien-Jourdan.pdf)
 
 ### Séance 5 - Transcriptomique
 Jeudi 21/02/2019 900 - 12h00
