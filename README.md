@@ -49,4 +49,5 @@ Instructeur : Fabien Jourdan [[PDF]](seance4/2019-02-19-Dubii-Metabolomics_Fabie
 ### Séance 5 - Transcriptomique
 Jeudi 21/02/2019 900 - 12h00
 
-Instructeur : Daniel Gautheret
+Instructeur : Daniel Gautheret [[PDF]](Séance5/DUbii-RNA-seq-data.pdf)  [[TP]](Séance5/TP-RNAseq-EMT.pdf)
+
