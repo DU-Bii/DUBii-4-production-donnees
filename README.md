@@ -1,53 +1,51 @@
-## Synopsis
+# [DU-Bii](https://du-bii.github.io/accueil) - module 4 - Production des données à haut débit et sources de données pour la biologie intégrative
 
-L’objectif de ce module est de vous familiariser avec les technologies de production de données. 
+## Responsables du Module
+* Valentin Loux - INRAE - valentin.loux@inrae.fr
+* Bertrand Cosson - Université Paris Diderot - bertrand.cosson@univ-paris-diderot.fr
 
 ## Intervenants
-
-- Claude Thermes, CNRS
-- Valentin Loux, INRA
-- Cédric Midoux, IRSTEA
-- Fabien Jourdan, INRA
-- Thibaut Léger, Université Paris Diderot
-- Daniel Gautheret, Université Paris-Sud
-
-## Planning DU-Bii 2019
+* Claude Thermes - Institut de Biologie Intégrative de la Cellule - Claude.THERMES@i2bc.paris-saclay.fr
+* Olivier Rué - INRAE - olivier.rue@inra.fr
+* Valentin Loux - INRAE - valentin.loux@inrae.fr
+* Mélanie Petera
+* Binta Dieme
+* Thibaut Léger
 
 
-https://tinyurl.com/dubii19-planning
+## Calendrier 2020
 
-### Séance 1 - Génomique 
+Calendrier du DU-Bii : <https://du-bii.github.io/accueil/img/planning_DUBii_2020.png>
 
-Introduction [[PDF]](https://github.com/DU-Bii/module-4-Production-Donnees/blob/master/Séance1/%2020190129_DuBii_Intro_Module4.pdf)
+## Synopsis
 
-Instructeur : Claude Thermes [[PDF]](https://github.com/DU-Bii/module-4-Production-Donnees/blob/master/Séance1/00_20190129_THERMES-3.pdf)
-
-Mardi 29/01/2019 10h15 - 13:00
-
-### Séance 2 - Contrôle Qualité
-
-
-Jeudi 31/01/2019 10:00 - 13:00
-
-instructeurs : Valentin Loux & Cédric Midoux [[PDF]](https://github.com/DU-Bii/module-4-Production-Donnees/blob/master/Séance2/DuBii%20-%20Module%204%20-%20QC.pdf)
-
-### Séance 3 - Protéomique
+### [Séance 1](https://github.com/DU-Bii/module-5-Methodes-Outils/tree/master/seance1)
+Séance commune module 4 et 5.
+- Date : 9 mars 2020
+- Horaires : 10h00 - 12hOO
+- Intervenants : Claude Thermes, Olivier Rué et Valentin Loux
+- Titre : Introductio au séquençage haut débit pour la génomique
 
 
-Mardi 05/02/2019 10:00 - 13:00
 
-instructeur : Thibaut Léger  [[PDF]](seance3/proteomics_Thibault-Leger_2019-02-04.pdf)
+### [Séance 2](https://github.com/DU-Bii/module-5-Methodes-Outils/tree/master/seance2)
+Séance commune module 4 et 5.
+- Date : 11 mars 2020
+- Horaires : 9h30 - 17h00
+- Intervenants : Nicolas Servant et Marc Deloger
+- Titre : RNAseq data analysis
 
+### [Séance 3](https://github.com/DU-Bii/module-5-Methodes-Outils/tree/master/seance3)
+Séance commune module 4 et 5.
+- Date : 23 mars 2020
+- Horaires : 9h30 - 17h00
+- Intervenants : Mélanie Petera & Binta Dieme
+- Titre : Production de données pour la Métabolomique
 
-### Séance 4 - Métabolomique
+### [Séance 4](https://github.com/DU-Bii/module-4-Production-Donnee/tree/master/seance4)
+- Date : 25 mars 2020
+- Horaires : 9h30 - 13h00
+- Intervenants : Thibaut Léger
+- Titre : Production et analyse de données pour la Protéomique
 
-
-Mercredi 19/02/2019 10:00 - 13:00
-
-Instructeur : Fabien Jourdan [[PDF]](seance4/2019-02-19-Dubii-Metabolomics_Fabien-Jourdan.pdf)
-
-### Séance 5 - Transcriptomique
-Jeudi 21/02/2019 900 - 12h00
-
-Instructeur : Daniel Gautheret [[PDF]](Séance5/DUbii-RNA-seq-data.pdf)  [[TP-pdf]](Séance5/TP-RNAseq-EMT.pdf)[[TP-md]](Séance5/TP-RNAseq-EMT.md)
 
