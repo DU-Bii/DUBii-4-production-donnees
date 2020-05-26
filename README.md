@@ -37,15 +37,20 @@ Séance commune module 4 et 5.
 
 ### [Séance 3](https://github.com/DU-Bii/module-5-Methodes-Outils/tree/master/seance3)
 Séance commune module 4 et 5.
-- Date : 23 mars 2020
-- Horaires : 9h30 - 17h00
-- Intervenants : Mélanie Petera & Binta Dieme
+- Date : 4 juin 2020
+- Horaires : 9h30 - 16h30
+- Intervenants : Mélanie Pétéra & Binta Diémé
 - Titre : Production de données pour la Métabolomique
 
 ### [Séance 4](https://github.com/DU-Bii/module-4-Production-Donnee/tree/master/seance4)
-- Date : 25 mars 2020
-- Horaires : 9h30 - 13h00
+- Date : 3 juin 2020
+- Horaires : 11h00 - 12h15
 - Intervenants : Thibaut Léger
 - Titre : Production et analyse de données pour la Protéomique
 
+#### Pré-requis :
+##### Cours en ligne :
+Suivre le [cours en ligne] ().
+
+Temps estimé : 2h15
 
