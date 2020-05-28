@@ -58,7 +58,7 @@ Le temps en visio du 3 juin sera consacré aux échanges autour de la présentat
 
 | Supports | Formats |
 |--------------------------------------------------|--------|
-| Pproduction of omics data : Proteomics | [[pdf](seance4/280520-DUBii-TLeger.pdf)]
+| Production of omics data : Proteomics | [[pdf](seance4/280520-DUBii-TLeger.pdf)]
 | séance de TD du 3 juin |  |
 
 
