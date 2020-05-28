@@ -50,7 +50,10 @@ Séance commune module 4 et 5.
 
 #### Pré-requis :
 ##### Cours en ligne :
-Suivre le [cours en ligne] ().
+Suivre le [cours en ligne](http://youtu.be/DEUNOSUOhi0?hd=1).
 
-Temps estimé : 2h15
+Temps estimé : 2h20
+
+Le temps en visio du 3 juin sera consacré aux échanges autour de la présentation et à une démonstration d'outils d'analayse en ligne.
+
 
