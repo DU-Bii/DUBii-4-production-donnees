@@ -56,4 +56,11 @@ Temps estimé : 2h20
 
 Le temps en visio du 3 juin sera consacré aux échanges autour de la présentation et à une démonstration d'outils d'analayse en ligne.
 
+| Supports | Formats |
+|--------------------------------------------------|--------|
+| Pproduction of omics data : Proteomics | [[pdf](seance4/280520-DUBii-TLeger.pdf)]
+| séance de TD du 3 juin | [[pdf](seance2/processing/RNAseq_processing.pdf)] [[html](seance2/processing/RNAseq_processing.html)]  |
+
+
+
 
