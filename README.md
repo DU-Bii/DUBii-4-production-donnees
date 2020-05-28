@@ -59,7 +59,7 @@ Le temps en visio du 3 juin sera consacré aux échanges autour de la présentat
 | Supports | Formats |
 |--------------------------------------------------|--------|
 | Pproduction of omics data : Proteomics | [[pdf](seance4/280520-DUBii-TLeger.pdf)]
-| séance de TD du 3 juin | [[pdf](seance2/processing/RNAseq_processing.pdf)] [[html](seance2/processing/RNAseq_processing.html)]  |
+| séance de TD du 3 juin |  |
 
 
 
