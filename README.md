@@ -59,7 +59,7 @@ Le temps en visio du 3 juin sera consacré aux échanges autour de la présentat
 | Supports | Formats |
 |--------------------------------------------------|--------|
 | Production of omics data : Proteomics | [[pdf](seance4/280520-DUBii-TLeger.pdf)]
-| séance de TD du 3 juin |  | [pdf](seance4/030620-TD-DUBii-proteomics-TLeger.pdf) [xlsx](seance4/280520-Candida-albicans-protein-measurements-label-free.xlsx)
+| séance de TD du 3 juin | [pdf](seance4/030620-TD-DUBii-proteomics-TLeger.pdf) [xlsx](seance4/280520-Candida-albicans-protein-measurements-label-free.xlsx)
 
 
 
