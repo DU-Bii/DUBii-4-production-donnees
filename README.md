@@ -54,12 +54,12 @@ Suivre le [cours en ligne](http://youtu.be/DEUNOSUOhi0?hd=1).
 
 Temps estimé : 2h20
 
-Le temps en visio du 3 juin sera consacré aux échanges autour de la présentation et à une démonstration d'outils d'analayse en ligne.
+Le temps en visio du 3 juin sera consacré aux échanges autour de la présentation et à un court TP d'outils d'analyse en ligne.
 
 | Supports | Formats |
 |--------------------------------------------------|--------|
 | Production of omics data : Proteomics | [[pdf](seance4/280520-DUBii-TLeger.pdf)]
-| séance de TD du 3 juin |  |
+| séance de TD du 3 juin |  | [pdf](seance4/030620-TD-DUBii-proteomics-TLeger.pdf) [xlsx](seance4/280520-Candida-albicans-protein-measurements-label-free.xlsx)
 
 
 
